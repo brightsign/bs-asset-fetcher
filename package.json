@@ -1,0 +1,25 @@
+{
+  "name": "bs-asset-fetcher",
+  "version": "1.0.0",
+  "description": "Brightsign asset fetcher library for use with the onboard node.js server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightsign/bs-asset-fetcher.git"
+  },
+  "author": "support@brightsign.biz (http://www.brightsign.biz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brightsign/bs-asset-fetcher/issues"
+  },
+  "homepage": "https://github.com/brightsign/bs-asset-fetcher#readme",
+  "dependencies": {
+    "async": "2.1.2",
+    "crypto-js": "3.1.7",
+    "request": "2.75.0",
+    "xml2js": "0.4.17"
+  }
+}
